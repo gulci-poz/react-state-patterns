@@ -1,0 +1,6 @@
+.Box {
+    display: inline-block;
+    width: 12.5%;
+    padding-bottom: 12.5%;
+    margin-bottom: -4px;
+}
